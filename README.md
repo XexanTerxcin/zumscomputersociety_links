@@ -1,1 +1,1 @@
-# SMY-GAMER
+# ZUMS Computer Society All Links
