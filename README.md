@@ -26,13 +26,6 @@
 
 🔥 **Try it live:** https://www.zcs.dedyn.io/
 
-🏆 **Wings Covered:**
-• Competitive Programming
-• Cybersecurity & Ethical Hacking
-• AI & Machine Learning
-• Robotics
-• Esports
-• Workshops & Training
 
 📧 **Contact:** zumscomputersociety@gmail.com
 📍 **Location:** F, 15 Pragati Sarani, Dhaka 1212
