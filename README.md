@@ -8,30 +8,14 @@
 
 ## 🎨 Features
 
-- ⚡ Real-time mouse trail particles
 - 📱 Fully responsive across all devices (320px - 4K)
-- 🎨 Cyberpunk/Neon aesthetic with glassmorphism
-- 🍔 Mobile-first hamburger navigation
-- 🎥 Video backgrounds for immersive experience
-- 📝 Workshop blog preview section
 - 🔗 Quick access to all social platforms
-- 🎮 Interactive dropdown menus
 
 ## 🛠️ Built With
 
 - HTML5 + CSS3 (Flexbox/Grid)
-- Vanilla JavaScript (No frameworks!)
-- Canvas API for particle effects
-- CSS Backdrop-filter for glassmorphism
+- JavaScript (No frameworks!)
 
-## 🏆 Wings Covered
-
-- Competitive Programming
-- Cybersecurity & Ethical Hacking
-- AI & Machine Learning
-- Robotics
-- Esports
-- Workshops & Training
 
 📱 **Perfect on:** iPhone SE | iPad | Android | Desktop | 4K Displays
 
