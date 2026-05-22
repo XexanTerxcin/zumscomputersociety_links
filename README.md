@@ -24,7 +24,7 @@
 
 📱 **Perfect on:** iPhone SE | iPad | Android | Desktop | 4K Displays
 
-🔥 **Try it live:** [https://www.zcs.dedyn.io/]
+🔥 **Try it live:** https://www.zcs.dedyn.io/
 
 🏆 **Wings Covered:**
 • Competitive Programming
