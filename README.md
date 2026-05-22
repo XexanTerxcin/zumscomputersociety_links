@@ -1,8 +1,8 @@
 🚀 ZUMS Computer Society - Official Web Presence
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00ff00?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
-[![Responsive](https://img.shields.io/badge/Responsive-Yes-00ff00?style=for-the-badge&logo=responsive&logoColor=white)](https://your-demo-link.com)
-[![Tech Stack](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-00ff00?style=for-the-badge&logo=javascript&logoColor=white)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00ff00?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zcs.dedyn.io/)
+[![Responsive](https://img.shields.io/badge/Responsive-Yes-00ff00?style=for-the-badge&logo=responsive&logoColor=white)](https://www.zcs.dedyn.io/)
+[![Tech Stack](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-00ff00?style=for-the-badge&logo=javascript&logoColor=white)](https://www.zcs.dedyn.io/)
 
 ✨ **A modern, neon-themed link-in-bio & information hub for ZUMS Computer Society** ✨
 
@@ -24,7 +24,7 @@
 
 📱 **Perfect on:** iPhone SE | iPad | Android | Desktop | 4K Displays
 
-🔥 **Try it live:** [Your Demo Link]
+🔥 **Try it live:** [https://www.zcs.dedyn.io/]
 
 🏆 **Wings Covered:**
 • Competitive Programming
