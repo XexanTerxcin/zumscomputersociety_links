@@ -1,4 +1,4 @@
-🚀 ZUMS Computer Society - Official Web Presence
+🚀 All ZCS links are now available in one place.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00ff00?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zcs.dedyn.io/)
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-00ff00?style=for-the-badge&logo=responsive&logoColor=white)](https://www.zcs.dedyn.io/)
